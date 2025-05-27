@@ -18,8 +18,8 @@ https://game.ali213.net/thread-6576428-1-1.html<br>
 
 # How to use
 ## I - CTRPF (Action Replay) [RECOMMENDED]
-1) Download **Luma3DS Plugin loader** and put in `sd:/boot.firm`:<br>
-https://github.com/Nanquitas/Luma3DS/releases/<br>
+1) Download latest Luma3DS and put in `sd:/boot.firm`:<br>
+https://github.com/LumaTeam/Luma3DS/releases/<br>
 2) Download **CTRPluginFramework_BlankPlugin.3gx** (rename it to -> `default.3gx`) and put in `sd:/luma/plugins/default.3gx`<br>
 https://github.com/PabloMK7/CTRPluginFramework-BlankTemplate/releases/<br>
 3) Put your cheat files downloaded from **the actual repository** in `sd:/cheats/<tid>.txt`<br>
